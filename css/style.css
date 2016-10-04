@@ -1,0 +1,37 @@
+#footer .row div {
+  color: #555;
+}
+
+#footer .row a {
+  color: #555;
+}
+
+a:hover, a:focus {
+  color: #5f96c5;
+}
+
+a {
+  color: #8ea2b5
+}
+
+.note {
+  font-size: .8em;
+}
+
+.sep-top {
+  margin-top: 20px;
+}
+
+.sep-top-half {
+  margin-top: 10px;
+}
+
+#footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}
+
+#services {
+  margin-bottom: 80px;
+}
