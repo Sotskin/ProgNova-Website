@@ -35,3 +35,8 @@ a {
 #services {
   margin-bottom: 80px;
 }
+
+.highlighted-link {
+  font-weight: 500;
+  font-size: 1.05em;
+}
