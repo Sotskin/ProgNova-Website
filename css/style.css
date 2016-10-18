@@ -40,3 +40,12 @@ a {
   font-weight: 500;
   font-size: 1.05em;
 }
+
+.results tr td:first-child {
+  font-weight: bold;
+}
+
+.panel-heading.wet-asphalt-overwrite {
+  color: #fff;
+  background-color: #34495e;
+}
