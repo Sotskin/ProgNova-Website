@@ -58,3 +58,8 @@ a {
 #register-homepage > button {
   padding: 10px 50px;
 }
+
+#time a {
+  font-weight: lighter;
+  font-size: .5em;
+}
