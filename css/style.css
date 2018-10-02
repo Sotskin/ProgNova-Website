@@ -50,3 +50,16 @@ a {
   background-color: #34495e;
   border-color: #34495e;
 }
+
+#register-homepage {
+  margin-top: 20px;
+}
+
+#register-homepage > button {
+  padding: 10px 50px;
+}
+
+#time a {
+  font-weight: lighter;
+  font-size: .5em;
+}
